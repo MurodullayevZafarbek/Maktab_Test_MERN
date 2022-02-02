@@ -1,5 +1,7 @@
 {
    "port":"5000",
    "jwtSecret":"Maktab Test MERN",
-   "mongoURI": "mongodb+srv://user:d3S8upheflLR9AhL@cluster0.zttra.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+   "mongoURI":"mongodb://localhost:27017/Maktab"
 }
+
+
