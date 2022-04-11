@@ -5,14 +5,19 @@ import { BrowserRouter } from "react-router-dom"
 import './index.css';
 import App from './App';
 
+//function window() {
+//   console.log(screen.height)
+//}
+//window()
 
 ReactDOM.render(
-   <div className="Index">
-      <BrowserRouter>
-         <React.StrictMode>
+   <BrowserRouter>
+      <React.StrictMode>
+         <div className="Index">
             <App />
-         </React.StrictMode>
-      </BrowserRouter>
-   </div>,
+         </div>
+      </React.StrictMode>
+   </BrowserRouter>
+   ,
   document.getElementById('root')
 );

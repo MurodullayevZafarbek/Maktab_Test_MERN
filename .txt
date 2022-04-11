@@ -1,0 +1,4 @@
+express server
+react clients
+mongoose connect
+dotenv

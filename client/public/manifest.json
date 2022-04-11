@@ -1,7 +1,8 @@
 {
    "icons": [
      {
-       "src": "Bacground.png"
+       "src": "Bacground.jpg",
+       "type": "image/jpg"
      }
    ],
    "start_url": ".",

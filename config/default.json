@@ -1,7 +1,0 @@
-{
-   "port":"5000",
-   "jwtSecret":"Maktab Test MERN",
-   "mongoURI":"mongodb://localhost:27017/Maktab"
-}
-
-
