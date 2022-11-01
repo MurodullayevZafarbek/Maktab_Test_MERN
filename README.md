@@ -1,5 +1,8 @@
 # Figma src
 https://www.figma.com/file/rEQOrjkc8j0EIoN7fOzGk3/Test?node-id=0%3A1
+
+### `for Mo'minov Bek`
+https://www.figma.com/file/KjV1jQVsuA5wIDZEZZUtRE/Landing-Space-(Community)?node-id=109%3A1017
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
